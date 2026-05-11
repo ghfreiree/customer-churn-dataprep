@@ -29,13 +29,10 @@ O notebook segue uma estrutura lógica de engenharia de dados:
 
 ## Como Executar
 
-1. Clone o repositório:
-   > git clone https://github.com/ghfreiree/customer-churn-dataprep.git
+- Clone o repositório:
 
-2. Certifique-se de ter as bibliotecas instaladas:
-   > pip install pandas
-
-3. Abra o notebook no VS Code, Jupyter ou Google Colab e execute as células na ordem apresentada.
-
+   ```bash
+    git clone https://github.com/ghfreiree/customer-churn-dataprep.git
+   
 ---
-**Projeto desenvolvido como parte do portfólio de estudos em Data Science e Machine Learning.**
+*Desenvolvido com dedicação para aprofundamento em Data Science*
